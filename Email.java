@@ -11,7 +11,7 @@ public class Email {
 	private int mailboxCapacity = 500;
 	private int defaultPasswordlength = 8;
 	private String alternateEmail;
-	private String companysuffix = "acoustic";
+	private String companysuffix = "goodj";
 	
 	//Constructor to receive first name and last name (Instead of defining it outright, I'm defining it through this API)
 	public Email(String firstName, String lastName) {
